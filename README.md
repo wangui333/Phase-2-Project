@@ -60,7 +60,8 @@ Project developed over multiple stages:
  - README.md
 ## Notebooks
 - Notebook - Project.ipynb
-- PowerPoint Notebook - Movie Analysis.pdf 
+- PowerPoint Notebook - Movie Analysis.pdf
+- Tableau - https://public.tableau.com/app/profile/grace.wangui3215/viz/Book3_17543386678440/Dashboard1?publish=yes
 ## License
 This project is licensed under the MIT License.
 
